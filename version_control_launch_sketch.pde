@@ -5,6 +5,11 @@ void setup(){
  particles = new ArrayList<Particle>();
 }
 
+
+    
+
+
+
 void draw(){
   background(0);
   for (int i = 0; i < particles.size(); i++){
